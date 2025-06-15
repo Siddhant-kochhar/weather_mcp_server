@@ -1,0 +1,16 @@
+# MCP Framework
+mcp>=1.9.4
+
+# Weather API
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# FastAPI and web server
+fastapi>=0.109.0
+uvicorn[standard]>=0.24.0
+
+# Additional utilities
+pydantic>=2.7.2,<3.0.0
+httpx>=0.27.0
